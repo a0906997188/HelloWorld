@@ -44,7 +44,7 @@
             // 
             // txtShow
             // 
-            this.txtShow.Location = new System.Drawing.Point(165, 176);
+            this.txtShow.Location = new System.Drawing.Point(189, 173);
             this.txtShow.Name = "txtShow";
             this.txtShow.Size = new System.Drawing.Size(164, 25);
             this.txtShow.TabIndex = 1;
